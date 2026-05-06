@@ -1,0 +1,5 @@
+Line 1: Hello from file one
+Line 2: This file is small
+Line 3: Use it for testing
+Line 4: Count me
+Line 5: Done
